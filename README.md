@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zig94&label=Profile%20views&color=0e75b6&style=flat" alt="zig94" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zig94" alt="zig94" /></a> </p>
 
 - 🔭 I’m currently working on **Rock-Paper-Scissors Game**
 
@@ -20,7 +19,7 @@
 - 📫 How to reach me **kontakt@maxprojects.pl**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">kontakt@maxprojects.pl
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
