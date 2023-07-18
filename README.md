@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Rock-Paper-Scissors Game**
 - 🌱 I’m currently learning **Typescript & React**
-- 👯 I’m looking to collaborate on **UX Design**
+- 👯 I'm looking for a **UX Design** to work with me
 - 👨‍💻 All of my projects are available at [https://github.com/Zig94?tab=repositories](https://github.com/Zig94?tab=repositories)
 - 💬 Ask me about **Anything**
 - 📫 How to reach me **kontakt@maxprojects.pl**
