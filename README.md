@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **World Explorer App**
 - 🌱 I’m currently learning **Typescript & React**
-- 👨‍💻 All of my projects are available at [[https://github.com/Zig94?tab=repositories](https://github.com/Zig94?tab=repositories)]([https://github.com/Zig94?tab=repositories](https://github.com/Zig94?tab=repositories))
+- 👨‍💻 All of my projects are available at [[https://github.com/Zig94?tab=repositories](https://github.com/Zig94?tab=repositories)]
 - 📫 How to reach me **kontakt@maxprojects.pl**
 
 
