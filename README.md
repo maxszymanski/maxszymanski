@@ -1,12 +1,17 @@
 ![Header](./github.png)
 <h1 align="center">Hi 👋, I'm Max Szymański</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h3 align="center">A passionate programmer and aspiring Frontend Developer from Poland</h3>
 <img align="right" alt="gif" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
 
+- 🚀 My dream, which I am constantly striving for, is to become a Frontend Developer and create modern, interactive web applications.
+- 💡 I am constantly hungry for knowledge and with great enthusiasm I expand my skills in the field of Frontend Development, discovering newer technologies and tools.
+- 👨‍👩‍👦‍👦 I find a break from work and study with my family and friends, whom I value very much.
+- ⚽ Aside from coding, I am a football fan. I also love cycling and training at the gym, leading an active lifestyle.
 - 🔭 I’m currently working on **World Explorer App**
 - 🌱 I’m currently learning **Typescript & React**
-- 👨‍💻 All of my projects are available at [[https://github.com/Zig94?tab=repositories](https://github.com/Zig94?tab=repositories)]
 - 📫 How to reach me **kontakt@maxprojects.pl**
+
+  I'm excited about the opportunities in the world of Frontend Development and ready for new challenges. Thanks for visiting my profile!
 
 
 <h3 align="left">Languages and Tools:</h3>
