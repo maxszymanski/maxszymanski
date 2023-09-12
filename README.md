@@ -16,7 +16,7 @@
   
 🌱 I’m currently learning **Typescript & React**
   
-📫 How to reach me **kontakt@maxprojects.pl**
+📫 If you have any questions, please write **kontakt@maxprojects.pl**
   
 
 
