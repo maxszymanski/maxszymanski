@@ -20,7 +20,8 @@
   
 
 
-  I'm excited about the opportunities in the world of Frontend Development and ready for new challenges. Thanks for visiting my profile!
+<h3 align="center"> I'm excited about the opportunities in the world of Frontend Development and ready for new challenges. Thanks for visiting my profile!</h3>
+ 
 
 
 
