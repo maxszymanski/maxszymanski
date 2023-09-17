@@ -8,8 +8,6 @@
   
 💡 I am constantly hungry for knowledge and with great enthusiasm I expand my skills in the field of Frontend Development, discovering newer technologies and tools.
   
-👨‍👩‍👦‍👦 I find a break from work and study with my family and friends, whom I value very much.
-  
 ⚽ Aside from coding, I am a football fan. I also love cycling and training at the gym, leading an active lifestyle.
   
 🔭 I’m currently working on **World Explorer App**
