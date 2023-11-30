@@ -10,7 +10,7 @@
   
 ⚽ Aside from coding, I am a football fan. I also love cycling and training at the gym, leading an active lifestyle.
   
-🔭 I’m currently working on **World Explorer App**
+🔭 I’m currently working on **Burrito App**
   
 🌱 I’m currently learning **Typescript & React**
   
