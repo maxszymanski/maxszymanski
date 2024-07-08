@@ -14,7 +14,7 @@
   
 🌱 I’m currently learning **Typescript & React**
   
-📫 If you have any questions, please write **kontakt@maxprojects.pl**
+📫 If you have any questions, please write **hello@maxszymanski.pl**
   
 
 
