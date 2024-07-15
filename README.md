@@ -1,7 +1,10 @@
 ![Header](./github.png)
 <h1 align="center">Hi 👋, I'm Max Szymański</h1>
+<div display=flex>
+  
 <h3 align="center">A passionate programmer and aspiring Frontend Developer from Poland</h3>
 <img align="center" alt="gif" width="30%" height="300" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*7Q3yvSIv_t0ioJ-Z.gif"
+</div>
 
 
 🚀 My goal, which I am constantly striving for, is to become a Frontend Developer and create modern, interactive web applications.
