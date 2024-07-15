@@ -12,9 +12,9 @@
   
 ⚽ Aside from coding, I am a football fan. I also love cycling and training at the gym, leading an active lifestyle.
   
-🔭 I’m currently working on **Burrito App**
+🔭 I’m currently working on **Portfolio**
   
-🌱 I’m currently learning **Typescript & React**
+🌱 I’m currently learning **Next.js**
   
 📫 If you have any questions, please write **hello@maxszymanski.pl**
   
