@@ -1,4 +1,3 @@
-![Header](./new.png)
 <h1 align="center">Hi 👋, I'm Max Szymański</h1>
 <h3 align="center">A passionate Frontend Developer from Poland</h3>
 
