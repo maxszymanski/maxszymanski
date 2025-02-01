@@ -11,9 +11,9 @@
   
 ⚽ Aside from coding, I am a football fan. I also love cycling and training at the gym, leading an active lifestyle.
   
-🔭 I’m currently working on **Burrito Admin**
+🔭 I’m currently working on **online store project**
   
-🌱 I’m currently learning **Next.js**
+🌱 I’m currently learning **SvelteKit**
   
 📫 If you have any questions, please write **hello@maxszymanski.pl**
   
