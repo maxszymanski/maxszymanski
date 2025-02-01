@@ -11,7 +11,7 @@
   
 ⚽ Aside from coding, I am a football fan. I also love cycling and training at the gym, leading an active lifestyle.
   
-🔭 I’m currently working on **online store project**
+🔭 I’m currently working on an **online store project**
   
 🌱 I’m currently learning **SvelteKit**
   
